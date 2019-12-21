@@ -9,16 +9,27 @@
 
 }
 
+                                               /*titre*/
 
-
-div.title h1{
-	text-align: center;
-	color: red;
-	margin-top: 100px;
-	
+ #title{
+ 	text-decoration: underline;
+ 	position: absolute;
+ 	top: 5%;
+ 	text-align: center;
+    left: 20%;
+ 	color: #bdb8d7;
+ 	background-position: center;
+ 	font-size: 30px;
 
 }
 
+                                              /*menu de navigation*/
+
+nav.menu-nav {
+    position: obsolute;
+
+
+}
 
 
 nav.menu-nav ul li.btn {
@@ -61,13 +72,14 @@ nav.menu-nav ul li.btn1 {
 nav.menu-nav ul li.btn1 a{
 	color: #bdb8d7;
 	
-
-
-
 }
 
+nav.menu-nav ul li.btn a,i{
+	margin-left: 10px;
+}
 
-/* annimation lors du clic*/
+ 
+                                                /* annimation lors du clic*/
 
 nav.menu-nav ul li:hover i{
 	color: red;
@@ -78,5 +90,8 @@ body{
 	background-repeat: none;
 	background-position: center;
 	background-size: 1300px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
 
 }
