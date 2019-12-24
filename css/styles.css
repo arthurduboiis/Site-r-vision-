@@ -329,7 +329,7 @@ div.fichechap2 div.premiereparti  ul li.a3 {
 
 div.fichechap2 div.premiereparti  ul li.a4 {
 	position: absolute;
-    top: 31%;
+    top: 32%;
 	margin-left: 300px;
 	color: black;
 	font-size: 16px;
@@ -339,7 +339,7 @@ div.fichechap2 div.premiereparti  ul li.a4 {
 }
 div.fichechap2 div.premiereparti span.partib {
 	 position: absolute;
-	 top: 33%;
+	 top: 35%;
 	margin-left: 260px;
 	color: black;
 	font-family: Helvetica;
@@ -348,7 +348,7 @@ div.fichechap2 div.premiereparti span.partib {
 }
 div.fichechap2 div.premiereparti span.a5 {
 	position: absolute;
-	top: 33%;
+	top: 35%;
 	margin-left: 280px;
 	color: black;
 	font-size: 18px;
