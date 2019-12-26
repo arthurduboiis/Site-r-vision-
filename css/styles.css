@@ -633,6 +633,158 @@ div.fichechap2 div.deuxiemeparti  ul li.a28 {
 	font-family: Helvetica;
 	list-style-type: circle;
 }
+div.fichechap2 div.deuxiemeparti span.partic {
+	 position: absolute;
+	 top: 128%;
+	margin-left: 260px;
+	color: black;
+	font-family: Arial Black;
+	font-size: 18px;
+	padding: 10px 10px;
+}
+div.fichechap2 div.deuxiemeparti span.a29 {
+	position: absolute;
+	top: 128%;
+	margin-left: 280px;
+	color: black;
+	font-size: 18px;
+	padding: 10px 10px;
+	font-family: Arial Black;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a30 {
+	position: absolute;
+    top: 131%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a31 {
+	position: absolute;
+    top: 134%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a32 {
+	position: absolute;
+    top: 137%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a33 {
+	position: absolute;
+    top: 140%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a34 {
+	position: absolute;
+    top: 143%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.troisiemeparti h2 {
+	 position: absolute;
+	 top: 149%;
+	 margin-left: 200px;
+	 padding: 0.1px 8px;
+	 color: white;
+	 border-radius: 40px;
+	 height: 28px;
+	 width: 28px;
+	 font-size: 20px;
+     padding-top: center;
+} 
+div.fichechap2 div.troisiemeparti h1 {
+	position: absolute;
+	top: 149%;
+	margin-left: 230px;
+	color: black;
+	font-family: Arial Black;
+	font-size: 20px;
+	text-decoration: underline;
+}
+div.fichechap2 div.troisiemeparti h1,h2 {
+	padding: 5px 10px;
+}
+div.fichechap2 div.troisiemeparti span.partia {
+	 position: absolute;
+	 top: 154%;
+	margin-left: 260px;
+	color: black;
+	font-family: Arial Black;
+	font-size: 18px;
+	padding: 10px 10px;
+}
+div.fichechap2 div.troisiemeparti span.a35 {
+	position: absolute;
+	top: 154%;
+	margin-left: 280px;
+	color: black;
+	font-size: 18px;
+	padding: 10px 10px;
+	font-family: Arial Black;
+}
+div.fichechap2 div.troisiemeparti  ul li.a36 {
+	position: absolute;
+    top: 158%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.troisiemeparti  ul li.a37 {
+	position: absolute;
+    top: 161%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.troisiemeparti  ul li.a38 {
+	position: absolute;
+    top: 164%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.troisiemeparti  ul li.a39 {
+	position: absolute;
+    top: 169%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+
+
 
 
 
