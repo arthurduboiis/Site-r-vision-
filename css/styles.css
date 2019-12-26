@@ -292,7 +292,7 @@ div.fichechap2 div.premiereparti span.partia {
 	 top: 19%;
 	margin-left: 260px;
 	color: black;
-	font-family: Helvetica;
+	font-family: Arial Black;
 	font-size: 18px;
 	padding: 10px 10px;
 }
@@ -303,7 +303,7 @@ div.fichechap2 div.premiereparti span.a1 {
 	color: black;
 	font-size: 18px;
 	padding: 10px 10px;
-	font-family: Helvetica;
+	font-family: Arial Black;
 }
 
 div.fichechap2 div.premiereparti  ul li.a2 {
@@ -342,7 +342,7 @@ div.fichechap2 div.premiereparti span.partib {
 	 top: 35%;
 	margin-left: 260px;
 	color: black;
-	font-family: Helvetica;
+	font-family: Arial Black;
 	font-size: 18px;
 	padding: 10px 10px;
 }
@@ -353,8 +353,298 @@ div.fichechap2 div.premiereparti span.a5 {
 	color: black;
 	font-size: 18px;
 	padding: 10px 10px;
-	font-family: Helvetica;
+	font-family: Arial Black;
 }
+div.fichechap2 div.premiereparti  ul li.a6 {
+	position: absolute;
+    top: 38%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti  ul li.a7 {
+	position: absolute;
+    top: 41%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti  ul li.a8 {
+	position: absolute;
+    top: 44%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti  ul li.a9 {
+	position: absolute;
+    top: 47%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti  ul li.a10 {
+	position: absolute;
+    top: 50%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti span.partic {
+	 position: absolute;
+	 top: 54%;
+	margin-left: 260px;
+	color: black;
+	font-family: Arial Black;
+	font-size: 18px;
+	padding: 10px 10px;
+}
+div.fichechap2 div.premiereparti span.a11 {
+	position: absolute;
+	top: 54%;
+	margin-left: 280px;
+	color: black;
+	font-size: 18px;
+	padding: 10px 10px;
+	font-family: Arial Black;
+}
+div.fichechap2 div.premiereparti  ul li.a12 {
+	position: absolute;
+    top: 57%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti  ul li.a13 {
+	position: absolute;
+    top: 60%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti  ul li.a14 {
+	position: absolute;
+    top: 66%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.premiereparti  ul li.a15 {
+	position: absolute;
+    top: 69%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti h2 {
+	 position: absolute;
+	 top: 75%;
+	 margin-left: 200px;
+	 padding: 0.1px 8px;
+	 color: white;
+	 border-radius: 40px;
+	 height: 28px;
+	 width: 28px;
+	 font-size: 20px;
+     padding-top: center;
+} 
+div.fichechap2 div.deuxiemeparti h1 {
+	position: absolute;
+	top: 75%;
+	margin-left: 230px;
+	color: black;
+	font-family: Arial Black;
+	font-size: 20px;
+	text-decoration: underline;
+}
+div.fichechap2 div.deuxiemeparti h1,h2 {
+	padding: 5px 10px;
+}
+div.fichechap2 div.deuxiemeparti span.partia {
+	 position: absolute;
+	 top: 80%;
+	margin-left: 260px;
+	color: black;
+	font-family: Arial Black;
+	font-size: 18px;
+	padding: 10px 10px;
+}
+div.fichechap2 div.deuxiemeparti span.a16 {
+	position: absolute;
+	top: 80%;
+	margin-left: 280px;
+	color: black;
+	font-size: 18px;
+	padding: 10px 10px;
+	font-family: Arial Black;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a17 {
+	position: absolute;
+    top: 84%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a18 {
+	position: absolute;
+    top: 90%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a19 {
+	position: absolute;
+    top: 93%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a20 {
+	position: absolute;
+    top: 96%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a21 {
+	position: absolute;
+    top: 100%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti span.partib {
+	 position: absolute;
+	 top: 104%;
+	margin-left: 260px;
+	color: black;
+	font-family: Arial Black;
+	font-size: 18px;
+	padding: 10px 10px;
+}
+div.fichechap2 div.deuxiemeparti span.a22 {
+	position: absolute;
+	top: 104%;
+	margin-left: 280px;
+	color: black;
+	font-size: 18px;
+	padding: 10px 10px;
+	font-family: Arial Black;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a23 {
+	position: absolute;
+    top: 108%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a24 {
+	position: absolute;
+    top: 111%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a25 {
+	position: absolute;
+    top: 114%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a26 {
+	position: absolute;
+    top: 117%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a27 {
+	position: absolute;
+    top: 120%;
+	margin-left: 350px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+div.fichechap2 div.deuxiemeparti  ul li.a28 {
+	position: absolute;
+    top: 123%;
+	margin-left: 300px;
+	color: black;
+	font-size: 16px;
+	padding: 10px 10px;
+	font-family: Helvetica;
+	list-style-type: circle;
+}
+
+
+
+
+
+
+
+
+
+
+
+                                                          /*Chine*/
 div.chine {
 	position: absolute;
 	width: 1600px;
