@@ -308,7 +308,7 @@ div.fichechap2 div.premiereparti span.a1 {
 
 div.fichechap2 div.premiereparti  ul li.a2 {
 	position: absolute;
-    top: 22%;
+    top: 24%;
 	margin-left: 300px;
 	color: black;
 	font-size: 16px;
@@ -318,7 +318,7 @@ div.fichechap2 div.premiereparti  ul li.a2 {
 }
 div.fichechap2 div.premiereparti  ul li.a3 {
 	position: absolute;
-    top: 27%;
+    top: 28%;
 	margin-left: 300px;
 	color: black;
 	font-size: 16px;
@@ -329,7 +329,7 @@ div.fichechap2 div.premiereparti  ul li.a3 {
 
 div.fichechap2 div.premiereparti  ul li.a4 {
 	position: absolute;
-    top: 32%;
+    top: 33%;
 	margin-left: 300px;
 	color: black;
 	font-size: 16px;
@@ -339,7 +339,7 @@ div.fichechap2 div.premiereparti  ul li.a4 {
 }
 div.fichechap2 div.premiereparti span.partib {
 	 position: absolute;
-	 top: 35%;
+	 top: 36%;
 	margin-left: 260px;
 	color: black;
 	font-family: Arial Black;
@@ -445,7 +445,7 @@ div.fichechap2 div.premiereparti  ul li.a13 {
 }
 div.fichechap2 div.premiereparti  ul li.a14 {
 	position: absolute;
-    top: 66%;
+    top: 65%;
 	margin-left: 350px;
 	color: black;
 	font-size: 16px;
@@ -477,7 +477,7 @@ div.fichechap2 div.deuxiemeparti h2 {
 } 
 div.fichechap2 div.deuxiemeparti h1 {
 	position: absolute;
-	top: 75%;
+	top: 76%;
 	margin-left: 230px;
 	color: black;
 	font-family: Arial Black;
@@ -537,7 +537,7 @@ div.fichechap2 div.deuxiemeparti  ul li.a19 {
 }
 div.fichechap2 div.deuxiemeparti  ul li.a20 {
 	position: absolute;
-    top: 96%;
+    top: 95%;
 	margin-left: 300px;
 	color: black;
 	font-size: 16px;
@@ -551,7 +551,7 @@ div.fichechap2 div.deuxiemeparti  ul li.a21 {
 	margin-left: 300px;
 	color: black;
 	font-size: 16px;
-	padding: 10px 10px;
+	padding: 8px 8px;
 	font-family: Helvetica;
 	list-style-type: circle;
 }
